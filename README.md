@@ -2,7 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Development;Athletics;Dogs;Video+Games;Family&duration=3000&center=true&pause=500&width=1000&size=30)](https://git.io/typing-svg)
 
-Sales and data analysis professional transitioning into Full Stack Software Engineering. 
+<div>
+  <p>Sales and data analysis professional transitioning into Full Stack Software Engineering. 
+  Join me on my adventure to learn and experiment with new technologies while continuously expanding my coding skillset.</p>
+</div>
 
 ### Contact
 <div style="display: 'flex'">
