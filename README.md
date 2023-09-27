@@ -1,5 +1,8 @@
 # Welcome, I'm Darian!
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Athlete;Dog+Lover;Gamer:Family&duration=3000&center=true&pause=500&width=1000&size=30)](https://git.io/typing-svg)
+
 Sales and data analysis professional transitioning into Full Stack Software Engineering. Proficient in Python, JavaScript, React, Redux, and PostgreSQL. Strong track record in account management, data analysis, and customer service. Committed to delivering quality solutions and holding a Full Stack Web Development certification from App Academy.
 
 ### Tech Stack
@@ -19,3 +22,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hey 👋, This is Darian Brooks
+<div style="display: 'flex'">
+  <a href="https://darianbrooks.info/" target="_blank">
+    <img src="https://img.shields.io/badge/DARIANBROOKS.INFO-gray?style=flat&link=darianbrooks.info/" alt="Personal Website Badge">
+  </a>
+  <img src="https://img.shields.io/badge/-BROOKSD@ALUMNI.STANFORD.EDU-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge">
+  <a href="https://www.linkedin.com/in/darianbrooks92" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1ILdsVgOexAL1I5w9uXJ0POhK2OPBmxu8-09R9QqN3VM/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
+</div>
+
+<div style="text-align:center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darocket34&theme=transparent" alt="Profile Details">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=darocket34&theme=transparent" alt="Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=darocket34&theme=transparent&utcOffset=-7" alt="Productive Time">
+</div>
