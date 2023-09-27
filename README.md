@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Development;Athletics;Dogs;Video+Games;Family&duration=3000&center=true&pause=500&width=1000&size=30)](https://git.io/typing-svg)
 
-Sales and data analysis professional transitioning into Full Stack Software Engineering. Proficient in Python, JavaScript, React, Redux, and PostgreSQL. Strong track record in account management, data analysis, and customer service. Committed to delivering quality solutions and holding a Full Stack Web Development certification from App Academy.
+Sales and data analysis professional transitioning into Full Stack Software Engineering. 
 
 ### Contact
 <div style="display: 'flex'">
