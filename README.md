@@ -7,6 +7,11 @@
   Join me on my adventure to learn and experiment with new technologies while continuously expanding my coding skillset.</p>
 </div>
 
+<!--
+<img src="https://github.com/darocket34/darocket34/assets/130183749/4c574571-3108-477e-b876-fa0493d9d348" alt="image" width="30" height="30" title="brooksd@alumni.stanford.edu">
+![image](https://github.com/darocket34/darocket34/assets/130183749/3a5920e2-bc6c-43cc-85f6-4ed37a9bd1f6)
+-->
+
 ### Contact
 <div style="display: 'flex'">
   <a href="https://darianbrooks.info/" target="_blank">
