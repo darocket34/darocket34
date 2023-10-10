@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Resume-orange?style=flat&link=darianbrooks.info/" alt="Resume Badge">
   </a>
   <img src="https://img.shields.io/badge/-BrooksD@alumni.stanford.edu-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge">
-  <a href="https://www.linkedin.com/in/darianbrooks92" target="_blank">
+  <a href="https://www.linkedin.com/in/darian-brooks92" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </div>
